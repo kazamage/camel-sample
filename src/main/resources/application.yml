@@ -1,0 +1,5 @@
+spring.main:
+    sources: jp.pgw.develop.swallow.camelsample.Application
+    banner-mode: "off"
+    log-startup-info: true
+logging.level.root: INFO
